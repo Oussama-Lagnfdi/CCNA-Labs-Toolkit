@@ -1,0 +1,21 @@
+enable
+configure terminal
+
+hostname Switch1
+
+vlan 10
+name ADMIN
+
+vlan 20
+name SALES
+
+interface range f0/1 - 5
+switchport mode access
+switchport access vlan 10
+
+interface range f0/6 - 10
+switchport mode access
+switchport access vlan 20
+
+exit
+write memory
