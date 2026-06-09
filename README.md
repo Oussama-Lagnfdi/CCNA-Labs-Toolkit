@@ -1,54 +1,46 @@
 # 🖧 CCNA Labs Toolkit
 
-A complete structured repository for learning CCNA from beginner to intermediate level.
+A complete CCNA learning project with notes, labs, and Cisco configurations.
 
 ---
 
-## 📚 What’s inside
+## 📚 Contents
 
 ### 🧠 Notes
-- OSI Model explained
-- Subnetting guide
-- VLAN & Switching basics
+- OSI Model
+- Subnetting Guide
+- VLAN & Routing
 
 ### 🧪 Labs
-- Basic network topology
-- VLAN configuration lab
-- Routing practice labs
+- Basic Network Setup
+- VLAN Configuration
+- Static Routing
 
 ### ⚙️ Configurations
-- Cisco Router configs
-- Switch configs
-- Real CLI examples
+- Router CLI configs
+- Switch CLI configs
 
 ### 🧰 Cheatsheets
-- CCNA important commands
-- Quick subnetting formulas
+- Important Cisco commands
 
 ---
 
-## 🎯 Goal of this project
+## 🎯 Goal
 
-To help students:
-- Learn CCNA step-by-step
-- Practice real networking labs
-- Prepare for Cisco certification exams
+Help beginners learn CCNA step-by-step using:
+- Simple explanations
+- Real Cisco CLI examples
+- Practical labs
 
 ---
 
 ## 🚀 How to use
 
-1. Download Packet Tracer files
-2. Open in Cisco Packet Tracer
-3. Follow notes step by step
+1. Read notes
+2. Follow labs step by step
+3. Copy configs into Packet Tracer
 4. Practice CLI commands
 
 ---
 
-## 🧑‍💻 Author
-
-Created for networking learning and CCNA certification preparation.
-
----
-
-⭐ If this helps you, give this repo a star!
+⭐ Star this repo if it helps you!
